@@ -7,3 +7,16 @@ This docker image contains:
 - AWS CLI
 
 
+## To build
+
+```sh ./build.sh```
+
+## To run
+
+```sh ./run.sh```
+
+## To shell into the running container
+```sh ./exec.sh```
+
+## To cleanup after running
+```sh ./reset.sh```
