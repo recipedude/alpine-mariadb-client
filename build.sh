@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t recipedude/apline-mariadb-client:latest .
+docker build -t recipedude/alpine-mariadb-client-aws:latest .

@@ -9,6 +9,7 @@ RUN apk -v --update add --no-cache \
 			mailcap \
 			mariadb-client \
 			pwgen \
+			bzip2 \
 			&& \
 			pip install --upgrade pip && \
 			pip install --upgrade awscli==1.14.5 s3cmd==2.0.1 python-magic && \
