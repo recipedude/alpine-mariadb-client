@@ -20,3 +20,8 @@ This docker image contains:
 
 ## To cleanup after running
 ```sh ./reset.sh```
+
+
+## To do
+
+Consider using https://github.com/jfloff/alpine-python#why to reduce size of the image. 
